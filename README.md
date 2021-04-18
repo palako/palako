@@ -12,6 +12,7 @@
 * Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
 ### 2018
 * Se asiste al F8 de Facebook a dar una charla sobre Aura en Facebook Messenger.  
+
 ![F8](/images/f8.png)
  
 ### 2019
