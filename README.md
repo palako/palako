@@ -7,6 +7,7 @@
 ### 2016
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
+* La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
 * Creamos la unidad de componentes transversales.
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunally ;-)
