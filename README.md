@@ -2,7 +2,6 @@
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
 * Palako se une con Chema para crear Eleven Paths siendo el primer empleado. "¿Qué puede salir mal, Palako?" 
-* En Octubre 
 * En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2)
 * Cerramos el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
@@ -38,7 +37,16 @@
 ![F8](/images/f8.png)
  
 ### 2019
+* Este año llevaste el Equinox *to the next level*. Tres unidades de Telefónica juntas en la hackaton más grande que se recuerda
+![equinox-hacking-telefonica-evento-premios-grupo-personas](https://user-images.githubusercontent.com/481391/115163325-ca111880-a0a8-11eb-9371-dbcae0e69a3b.jpg)
+
+* Una reorga en TEF dio lugar al último comité de CDO
+![comite-cdo](https://user-images.githubusercontent.com/481391/115163419-486dba80-a0a9-11eb-9292-376affefdfb7.jpg)
+
+
+
 ### 2020
+* En 2020 seguro que echaste de menos no tener Slack en el plan tecnológico... Teams dia sí, día también!
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
 
 ### 2021
