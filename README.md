@@ -6,9 +6,10 @@
 ### 2016
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
-* Creamos la unidad de componentes transversales
+* Creamos la unidad de componentes transversales.
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunally ;-)
+* Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
 ### 2018
 ### 2019
 ### 2020
