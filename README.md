@@ -1,7 +1,7 @@
 # Palako en Telefónica
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
-* Palako se une con Chema para crear elevan paths. "¿Qué puede salir mal, Palako?" 
+* Palako se une con Chema para crear elevan paths siendo el primer empleado. "¿Qué puede salir mal, Palako?" 
 ### 2014
 ### 2015
 ### 2016
