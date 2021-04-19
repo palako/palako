@@ -45,7 +45,7 @@
 * La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
 * Creamos la unidad de componentes transversales.
 ### 2017
-* Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunally ;-)
+* Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
 * Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...)
 ![31](https://user-images.githubusercontent.com/481391/115163064-4b67ab80-a0a7-11eb-98d4-72cc8871827c.jpeg)
