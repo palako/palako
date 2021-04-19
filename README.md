@@ -2,6 +2,11 @@
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
 * Palako se une con Chema para crear Eleven Paths siendo el primer empleado. "¿Qué puede salir mal, Palako?" 
+
+* Esta fue la primera Feature que creaste (26 de Julio) y la primera de todo Redmine!!!
+![Screenshot 2021-04-19 at 13 48 14](https://user-images.githubusercontent.com/481391/115231637-147cae80-a116-11eb-89f3-282f5267129e.png)
+
+
 * En Octubre montaste un KickOff en Londres para dar forma a Path2
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
 
