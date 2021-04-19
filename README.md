@@ -58,7 +58,8 @@
 ![foto_de_Grupo_web](https://user-images.githubusercontent.com/481391/115289545-fd0fe680-a152-11eb-8fde-47491e243e1f.jpg)
 
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...)
-![Uploading MicrosoftTeams-image (2).png…]()
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/481391/115289685-24ff4a00-a153-11eb-89a3-e8008d06d73f.png)
+
 
 
 ### 2018
