@@ -17,15 +17,17 @@
 ![image](https://user-images.githubusercontent.com/481391/115162708-41dd4400-a0a5-11eb-94c8-8926430d36a2.png)
 
 * Celebramos el 1er aniversario de 11P y aunque las tartas de otras sedes eran mejores la que tuvisteis en Londres no estuvo nada mal!
-
 ![londoncake](https://user-images.githubusercontent.com/481391/115163148-bdd88b80-a0a7-11eb-92d7-14b7a6229b68.jpg)
+
+* Desde el principio tuviste claro que venias a cambiar Telefónica y no sera que no lo intentaste!
+![Screenshot 2021-04-19 at 12 58 29](https://user-images.githubusercontent.com/481391/115226693-d67c8c00-a10f-11eb-892d-9d91927b5973.png)
 
 * Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
 * Las navidades siempre han sido eventos muy señalados.... y no hay mejor Papa Noel que Rodol!!
-
 ![Navidad](/images/20141219_foto_felicitacion_Navidad.jpg)
+
 
 ### 2015
 * Este año en el SID te toco presentar, pero sin duda, tuviste buena compañia!
