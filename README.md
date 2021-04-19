@@ -42,8 +42,16 @@
 ### 2016
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
+* No todo iba a ser cyberseguridad, en Junio de 2016, se mete de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
 * La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
 * Creamos la unidad de componentes transversales.
+* Security Innovation Days, MWCs, ... y ya solo le faltaba para completar el trío presentar en el gran evento mundial del Big Data, el Bigdata CyL, finalmente tras arduas negociaciones con la organización que involucraron algún lechazo y un número indeterminado de copas de vino de la tierra se animo a dar la keynote del evento:
+![bigdtacyl1](images/20161193_BigDataCyL_Palako.png)
+![bigdtacyl2](images/20161193_BigDataCyL_Palako_2.png)
+
+
+
+
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
 * Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
