@@ -71,3 +71,4 @@
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
 
 ### 2021
+* Se lanza una nueva versión del tech plan de CTO, seguimos sin tener node.js ;-)
