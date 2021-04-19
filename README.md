@@ -23,6 +23,10 @@
 * Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
+* Las navidades siempre han sido eventos muy señalados!!
+
+![Navidad](20141219_foto_felicitacion_Navidad.jpg)
+
 ### 2015
 * Este año en el SID te toco presentar, pero sin duda, tuviste buena compañia!
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
