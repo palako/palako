@@ -25,7 +25,7 @@
 
 * Las navidades siempre han sido eventos muy señalados!!
 
-![Navidad](20141219_foto_felicitacion_Navidad.jpg)
+![Navidad](/images/20141219_foto_felicitacion_Navidad.jpg)
 
 ### 2015
 * Este año en el SID te toco presentar, pero sin duda, tuviste buena compañia!
