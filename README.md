@@ -9,6 +9,9 @@
 * Terminaste el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
 
+* Siempre les ha gustado inventar cosas!!
+![image](/images/patents%20hall%20of%20fame%202013%20Telefonica.png)
+
 ### 2014
 * Dejaste boquiabiertos 20 veces en 20 minutos a unas cuantas audiencias!
 ![image](https://user-images.githubusercontent.com/481391/115162708-41dd4400-a0a5-11eb-94c8-8926430d36a2.png)
