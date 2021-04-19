@@ -55,8 +55,11 @@
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
 * Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
+![foto_de_Grupo_web](https://user-images.githubusercontent.com/481391/115289545-fd0fe680-a152-11eb-8fde-47491e243e1f.jpg)
+
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...)
-![31](https://user-images.githubusercontent.com/481391/115163064-4b67ab80-a0a7-11eb-98d4-72cc8871827c.jpeg)
+![Uploading MicrosoftTeams-image (2).png…]()
+
 
 ### 2018
 * Se asiste al F8 de Facebook a dar una charla sobre Aura en Facebook Messenger.  
