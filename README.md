@@ -45,6 +45,8 @@
 * Este año llevaste el Equinox *to the next level*. Tres unidades de Telefónica juntas en la hackaton más grande que se recuerda
 ![equinox-hacking-telefonica-evento-premios-grupo-personas](https://user-images.githubusercontent.com/481391/115163325-ca111880-a0a8-11eb-9371-dbcae0e69a3b.jpg)
 
+* Novum se une a la familia CTO!!
+
 * Una reorga en TEF dio lugar al último comité de CDO
 ![comite-cdo](https://user-images.githubusercontent.com/481391/115163419-486dba80-a0a9-11eb-9292-376affefdfb7.jpg)
 
