@@ -2,21 +2,26 @@
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
 * Palako se une con Chema para crear Eleven Paths siendo el primer empleado. "¿Qué puede salir mal, Palako?" 
+* En Octubre montaste un KickOff en Londres para dar forma a Path2
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
+
 * En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2)
-* Cerramos el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
+* Terminaste el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
 
 ### 2014
 * Dejaste boquiabiertos 20 veces en 20 minutos a unas cuantas audiencias!
 ![image](https://user-images.githubusercontent.com/481391/115162708-41dd4400-a0a5-11eb-94c8-8926430d36a2.png)
 
-* Celebramos el 1er aniversario de 11P y aunque las tartas de otras sedes eran mejores la que trajiste en Londres no estuvo nada mal!
+* Celebramos el 1er aniversario de 11P y aunque las tartas de otras sedes eran mejores la que tuvisteis en Londres no estuvo nada mal!
 
 ![londoncake](https://user-images.githubusercontent.com/481391/115163148-bdd88b80-a0a7-11eb-92d7-14b7a6229b68.jpg)
 
-* Otro Security Innovation Day para presentar Path5 (Tacyt). 
+* Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
+![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
+
 ### 2015
-* Este año en el SID tuviste buena compañia!
+* Este año en el SID te toco presentar, pero sin duda, tuviste buena compañia!
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
 
 * Nace el Equinox y con él la camiseta mas deseada del mundo!!
