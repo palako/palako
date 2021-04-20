@@ -87,3 +87,6 @@
 
 ### 2021
 * Se lanza una nueva versión del tech plan de CTO, seguimos sin tener node.js ;-)
+
+* En abril Telefónica ha cumplido 97 años, tu has formado parte los últimos 8 ayudando a convertirla en una empresa más tecnológica, de mejor software y de mejor calidad. Esto es parte de tu legado:
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/481391/115377775-39355c80-a1d0-11eb-999d-a7ebf70888bb.png)
