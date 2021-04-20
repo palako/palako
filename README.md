@@ -1,4 +1,7 @@
 # Palako en Telefónica
+
+Jose recogemos en este readme algunos de tus hitos más importantes en Telefónica, eventos que nos han ayudado a que gracias a tu esfuerzo y compromiso seamos un poco mejores que hace 8 años. 
+
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
 * Palako te uniste con Chema para crear Eleven Paths siendo su primer empleado. "¿Qué puede salir mal, Palako?" 
