@@ -7,7 +7,7 @@
 ![Screenshot 2021-04-19 at 13 48 14](https://user-images.githubusercontent.com/481391/115231637-147cae80-a116-11eb-89f3-282f5267129e.png)
 
 * y estos serían tus primeros commits (Como te gustaba el Gerrit...)
-
+![commits](https://user-images.githubusercontent.com/481391/115375390-0a1deb80-a1ce-11eb-80e3-ac13d22d7161.jpg)
 
 
 * En Octubre montaste un KickOff en Londres para dar forma a Path2
