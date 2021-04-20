@@ -45,6 +45,10 @@
 ### 2016
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
+* Palako crea los incunables del diseño de la 4P!
+
+![4pDesign](images/4p.png)
+
 * No todo iba a ser cyberseguridad, en Junio de 2016, se mete de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
 * La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
 * Creamos la unidad de componentes transversales.
