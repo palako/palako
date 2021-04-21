@@ -20,6 +20,8 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 * Terminaste el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
 
+* Diciembre de 2013 y ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
+
 * Siempre les ha gustado inventar cosas!!
 ![image](/images/patents%20hall%20of%20fame%202013%20Telefonica.png)
 
@@ -71,7 +73,8 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...)
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/481391/115289685-24ff4a00-a153-11eb-89a3-e8008d06d73f.png)
 
-
+* Y en el Kick-Off de Aura demostraste tus dotes de interpretación e improvisación (más allá del desarrollo software 😃)
+![Palako-Actor](https://user-images.githubusercontent.com/1271642/115622556-4f3e3c80-a2f8-11eb-948b-dc58de3a0fa3.jpeg)
 
 ### 2018
 * Se asiste al F8 de Facebook a dar una charla sobre Aura en Facebook Messenger.  
