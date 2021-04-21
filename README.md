@@ -46,8 +46,7 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 
 * Nace el Equinox y con él la camiseta mas deseada del mundo!!
 * Se Lanza Mobile Connect que ahí sigue siendo clave en la autenticación de muchos servicios!!!
-* 
-### 2016
+
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
 * Palako crea los incunables del diseño de la 4P!
