@@ -95,6 +95,10 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 
 ![CarreraNavidadCercedilla](/images/CarreraNavidadCercedilla.jpeg)
 
+* Lanzamos el primer plan de carrera de CTO
+
+![plan](/images/Plan-de-carrera.png)
+
 ### 2020
 * En 2020 seguro que echaste de menos no tener Slack en el plan tecnológico... Teams dia sí, día también!
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
