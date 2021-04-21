@@ -45,6 +45,8 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
 
 * Nace el Equinox y con él la camiseta mas deseada del mundo!!
+* Se Lanza Mobile Connect que ahí sigue siendo clave en la autenticación de muchos servicios!!!
+* 
 ### 2016
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
