@@ -90,9 +90,6 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 
 ![bicis](/images/bicis.png)
 
-* Si se le nombraba tres veces se insntanciaba en el equinox
-
-![equinox](/images/equinox2019.png)
 
 ### 2020
 * En 2020 seguro que echaste de menos no tener Slack en el plan tecnológico... Teams dia sí, día también!
