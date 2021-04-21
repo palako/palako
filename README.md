@@ -1,4 +1,7 @@
 # Palako en Telefónica
+
+Jose recogemos en este readme algunos de tus hitos más importantes en Telefónica, eventos que nos han ayudado a que gracias a tu esfuerzo y compromiso seamos un poco mejores que hace 8 años. 
+
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
 * Palako te uniste con Chema para crear Eleven Paths siendo su primer empleado. "¿Qué puede salir mal, Palako?" 
@@ -45,6 +48,10 @@
 ### 2016
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
+* Palako crea los incunables del diseño de la 4P!
+
+![4pDesign](images/4p.png)
+
 * No todo iba a ser cyberseguridad, en Junio de 2016, se mete de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
 * La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
 * Creamos la unidad de componentes transversales.
