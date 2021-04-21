@@ -1,4 +1,7 @@
 # Palako en Telefónica
+
+Jose recogemos en este readme algunos de tus hitos más importantes en Telefónica, eventos que nos han ayudado a que gracias a tu esfuerzo y compromiso seamos un poco mejores que hace 8 años. 
+
 ## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
 * Palako te uniste con Chema para crear Eleven Paths siendo su primer empleado. "¿Qué puede salir mal, Palako?" 
@@ -13,11 +16,17 @@
 * En Octubre montaste un KickOff en Londres para dar forma a Path2
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
 
+* Diciembre de 2013 y ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
+
+* Un tiempo más tarde compartiste con nosotros el secreto para llegar en fechas a ese MWC 
+
+![Screenshot 2021-04-22 at 00 32 35](https://user-images.githubusercontent.com/1271642/115629347-78fc6100-a302-11eb-9ed0-3c4219fd1f2b.png)
+
+![Kubata](https://user-images.githubusercontent.com/1271642/115629948-8a923880-a303-11eb-95ec-bd50094c785c.png)
+
 * En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2)
 * Terminaste el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
-
-* Diciembre de 2013 y ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
 
 * Siempre les ha gustado inventar cosas!!
 ![image](/images/patents%20hall%20of%20fame%202013%20Telefonica.png)
