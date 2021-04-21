@@ -86,6 +86,10 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 * Una reorga en TEF dio lugar al último comité de CDO
 ![comite-cdo](https://user-images.githubusercontent.com/481391/115163419-486dba80-a0a9-11eb-9292-376affefdfb7.jpg)
 
+* Su preocupación por la privacidad de los datos es legendaria y multicanal!!
+
+![bicis](/images/bicis.png)
+
 
 
 ### 2020
