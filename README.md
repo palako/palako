@@ -45,7 +45,8 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
 
 * Nace el Equinox y con él la camiseta mas deseada del mundo!!
-### 2016
+* Se Lanza Mobile Connect que ahí sigue siendo clave en la autenticación de muchos servicios!!!
+
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
 * Palako crea los incunables del diseño de la 4P!
@@ -90,7 +91,9 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 
 ![bicis](/images/bicis.png)
 
+* Todo el mundo sabe que eres tan fan de la tecnología como del deporte, así que para cerrar el año 2019 como dios manda, carreraca guapa de montaña en Cercedilla los días previos a la Navidad de 2019. Eras el jefe, así que hubo que bajar el ritmo para dejarte ganar... ;)
 
+![CarreraNavidadCercedilla](/images/CarreraNavidadCercedilla.jpeg)
 
 ### 2020
 * En 2020 seguro que echaste de menos no tener Slack en el plan tecnológico... Teams dia sí, día también!
