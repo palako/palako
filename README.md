@@ -90,7 +90,7 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 
 ![bicis](/images/bicis.png)
 
-* Todo el mundo sabe que eres tan fan de la tecnologia como del deporte, asi que para cerrar el año 2019 como dios manda, carreraca guapa de montaña en Cercedilla los días previos a la navidad de 2019. Eras el jefe, así que hubo que bajar el ritmo para dejarte ganar... ;)
+* Todo el mundo sabe que eres tan fan de la tecnología como del deporte, así que para cerrar el año 2019 como dios manda, carreraca guapa de montaña en Cercedilla los días previos a la Navidad de 2019. Eras el jefe, así que hubo que bajar el ritmo para dejarte ganar... ;)
 
 ![CarreraNavidadCercedilla](/images/CarreraNavidadCercedilla.jpeg)
 
