@@ -91,17 +91,17 @@
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
 
-* CTO de CDO, preparando el germen del resto de areas que llegarán
+* Chema se convirtió en el CDO de TEF y tu seguiste como CTO preparando el germen del resto de areas que llegarían
 
 ![cto2016](images/2016-09-cto-cdo.jpeg)
 
-* Palako crea los incunables del diseño de la 4P!
+* Creaste los incunables del diseño de la 4P y para hacerlo posible todos los cracks de la unidad del TDAF de Telefonica I+D se unieron a CTO
 
 ![4pDesign](images/4p.png)
 
-* No todo iba a ser cyberseguridad, en Junio de 2016, se mete de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
+* Como no todo iba a ser ciberseguridad, en Junio de 2016, te metiste de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
 
-* La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
+![Screenshot 2021-04-22 at 12 44 40](https://user-images.githubusercontent.com/481391/115701898-919f6200-a368-11eb-8428-f0a19ec53d64.jpg)
 
 * Creamos la unidad de componentes transversales.
 
@@ -173,6 +173,11 @@
 
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
 
+* A pesar de estar en medio de una pandemia todos los proyectos siguieron creciendo, entre otros, lanzamos muchas Living Apps: Movistar Campus, Shop TV, Fortnite...
+
+![image](https://user-images.githubusercontent.com/481391/115701406-09b95800-a368-11eb-8e36-dfb9b2f99328.png)
+
+
 ### 2021
 * Lanzamos una nueva versión actualizada del tech plan de CTO, todo en orden: seguimos sin tener node.js ;-)
 
@@ -182,7 +187,7 @@
 
 ![Screenshot 2021-04-22 at 12 28 40](https://user-images.githubusercontent.com/481391/115700287-d0341d00-a366-11eb-807d-8e84da616ef9.png)
 
-* Se deja como testamento para el nuevo CTO el Growth Ladder Plan!!!
+* Dejas como testamento para el nuevo CTO el Growth Ladder Plan!!!
 
 ![plan](/images/Growth-Ladder.png)
 
