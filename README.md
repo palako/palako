@@ -110,6 +110,10 @@
 ![bigdtacyl1](images/20161193_BigDataCyL_Palako.png)
 ![bigdtacyl2](images/20161193_BigDataCyL_Palako_2.png)
 
+* Siempre has demostrado que se te da bien construir, ya sea software o estructuras más complejas
+
+![KickOff2016Actividad.jpg](/images/KickOff2016Actividad.jpg)
+
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
 
