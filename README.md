@@ -39,7 +39,7 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
 * En ese mismo Security Innovation Day SmartAccess se une a Eleven Paths. Dos nuevas lineas de producto a su cargo!
-![sid2014](https://user-images.githubusercontent.com/481391/inno2014-smartaccess.jpg)
+![sid2014](/images/inno2014-smartaccess.jpg)
 
 * Las navidades siempre han sido eventos muy señalados.... y no hay mejor Papa Noel que Rodol!!
 ![Navidad](/images/20141219_foto_felicitacion_Navidad.jpg)
@@ -70,7 +70,7 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 ![foto_de_Grupo_web](https://user-images.githubusercontent.com/481391/115289545-fd0fe680-a152-11eb-8fde-47491e243e1f.jpg)
 
 * Arranca SmartWifi 2.0!
-![swifi](https://user-images.githubusercontent.com/481391/swifi-sketch.jpeg)
+![swifi](/images/swifi-sketch.jpeg)
 
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...)
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/481391/115289685-24ff4a00-a153-11eb-89a3-e8008d06d73f.png)
