@@ -16,11 +16,16 @@
 ![commits](https://user-images.githubusercontent.com/481391/115375390-0a1deb80-a1ce-11eb-80e3-ac13d22d7161.jpg)
 
 
-* En Octubre montaste un KickOff en Londres para dar forma a Path2.
+* En Octubre montaste un KickOff en Londres para dar forma a Path2, todo empezaba a tener "muy buena pinta"
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
 
-* Y en Diciembre de 2013 ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
+
+* En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2). Te encargaste de contar todas las tripas del proyecto y como se integraba con sólo 5 lineas de código.
+
+![DSC_5425.JPG](/images/DSC_5425.JPG)
+
+* Poco despues ya empezabas a dejar huella en otros proyectos. Justo después del SID Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
 
 * Un tiempo más tarde compartiste con nosotros el secreto para llegar en fechas a ese MWC 
 
@@ -28,13 +33,11 @@
 
 ![Kubata](https://user-images.githubusercontent.com/1271642/115629948-8a923880-a303-11eb-95ec-bd50094c785c.png)
 
-* En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2)
-
-* Terminaste el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
+* Para acabar el año tuvimos la fiesta de Ciberseguridad de Telefónica donde te tomaste la penúltima
 
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
 
-* Siempre les ha gustado inventar cosas!!
+* Tu primer año en Telefónica pero ya dejaste una huella en su historia!
 
 ![image](/images/patents%20hall%20of%20fame%202013%20Telefonica.png)
 
@@ -52,7 +55,7 @@
 
 ![Screenshot 2021-04-19 at 12 58 29](https://user-images.githubusercontent.com/481391/115226693-d67c8c00-a10f-11eb-892d-9d91927b5973.png)
 
-* Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
+* Por segundo año tuivmos otro Security Innovation Day esta vez para presentar Tacyt (Codename: Path5), como ves la familia cada vez era más grande! 
 
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
@@ -65,16 +68,24 @@
 ![Navidad](/images/20141219_foto_felicitacion_Navidad.jpg)
 
 ### 2015
-* Este año en el SID te toco presentar, pero sin duda, tuviste buena compañia!
+
+* A principio de año Mobile Connect se unió a la familia, y ahí sigue siendo clave en la autenticación de muchos servicios!!!
+
+<img width="910" alt="Screenshot 2021-04-22 at 11 25 09" src="https://user-images.githubusercontent.com/481391/115693381-281b5580-a360-11eb-8ab7-f9dac91b99f3.png">
+
+
+* Como ya era tradición volvió el SID. Ese año te toco presentar, pero sin duda lo hiciste en la mejor compañia! 
 
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
 
-* Nace el Equinox y con él la camiseta mas deseada del mundo!!
+![SID2015_13.jpg](/images/SID2015_13.jpg)
 
 
-* Se Lanza Mobile Connect que ahí sigue siendo clave en la autenticación de muchos servicios!!!
+* De tu mano nació el Equinox y con él la camiseta mas deseada del mundo!! Este fue uno de los primeros equipos que ganó y seguramente de los proyectos más impresionantes que hayas visto
 
-<img width="910" alt="Screenshot 2021-04-22 at 11 25 09" src="https://user-images.githubusercontent.com/481391/115693381-281b5580-a360-11eb-8ab7-f9dac91b99f3.png">
+![EquinoxFotoFinal.PNG](/images/EquinoxFotoFinal.PNG)
+
+
 
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
