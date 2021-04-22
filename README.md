@@ -121,6 +121,10 @@
 
 ![FotoLondres.jpg](/images/FotoLondres.jpg)
 
+* Hiciste el primer offsite de CTO en Universitas, tu ibas en avión pero los que iban en tren desde Madrid se lo pasaron mejor :P
+
+![image](https://user-images.githubusercontent.com/481391/115706203-acc0a080-a36d-11eb-9092-41505a560404.png)
+
 
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
@@ -148,11 +152,11 @@
 
 * En Octubre, tras 7 meses de locura, vio la luz Movistar Home en un evento con Buenafuente en el plató de su programa de TV
 
-![Screenshot 2021-04-22 at 11 31 11](https://user-images.githubusercontent.com/481391/115691527-70397880-a35e-11eb-8ed5-bd8a8a48eb6a.jpg)
+![IMG-20181018-WA0005](https://user-images.githubusercontent.com/481391/115705696-22783c80-a36d-11eb-822c-6094134ea624.jpg)
 
 ![image](https://user-images.githubusercontent.com/481391/115700815-610af880-a367-11eb-9f35-407acfbd6b68.png)
 
- 
+
 ### 2019
 * Diste forma a un nuevo producto: Las Living Apps!
 
