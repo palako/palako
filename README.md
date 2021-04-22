@@ -81,7 +81,6 @@
 
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...) dejando alguna actuación histórica 
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/481391/115289685-24ff4a00-a153-11eb-89a3-e8008d06d73f.png)
-![concert2017](/images/20171006_023651.mp4)
 
 * Y en el Kick-Off de Aura demostraste tus dotes de interpretación e improvisación (más allá del desarrollo software 😃)
 ![Palako-Actor](https://user-images.githubusercontent.com/1271642/115622556-4f3e3c80-a2f8-11eb-948b-dc58de3a0fa3.jpeg)
