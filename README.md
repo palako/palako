@@ -91,9 +91,9 @@
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
 
-* Chema se convirtió en el CDO de TEF y tu seguiste como CTO preparando el germen del resto de areas que llegarían
+* Chema se convirtió en el CDO de TEF y tu seguiste como CTO preparando el germen del resto de areas que llegarían. En aquel momento 11P ya era un equipo inmenso:
 
-![cto2016](images/2016-09-cto-cdo.jpeg)
+![ELEVEN_PATHS-KickOff2016.jpg](images/ELEVEN_PATHS-KickOff2016.jpg)
 
 * Creaste los incunables del diseño de la 4P y para hacerlo posible todos los cracks de la unidad del TDAF de Telefonica I+D se unieron a CTO
 
@@ -113,6 +113,11 @@
 * Siempre has demostrado que se te da bien construir, ya sea software o estructuras más complejas
 
 ![KickOff2016Actividad.jpg](/images/KickOff2016Actividad.jpg)
+
+* Tu siempre has estado en Londres y por alli han ido pasando compañer@s a lo largo de los años que seguro que no olvidan esos momentos contigo
+
+![FotoLondres.jpg](/images/FotoLondres.jpg)
+
 
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
