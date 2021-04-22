@@ -86,6 +86,9 @@
 ![EquinoxFotoFinal.PNG](/images/EquinoxFotoFinal.PNG)
 
 
+* A tu lado nació el "Calendillo", los *martes* y tus visitas a Madrid siempre eran un evento importante
+
+![martes](/images/calendillo.jpg)
 
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
@@ -162,8 +165,7 @@
 
 * Meses después, Novum se unió a la familia CTO!!
 
-![Screenshot 2021-04-22 at 12 27 56](https://user-images.githubusercontent.com/481391/115699934-759ac100-a366-11eb-9268-8020bde3464a.png)
-
+![image](https://user-images.githubusercontent.com/481391/115705423-ce6d5800-a36c-11eb-9d46-ad5dd74fbb2b.png)
 
 * Tu preocupación por la privacidad de los datos es legendaria y multicanal!!
 
