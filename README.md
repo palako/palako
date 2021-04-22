@@ -1,20 +1,21 @@
 # Palako en Telefónica
 
-## CTO en Eleven Paths (Abril 2013 - Mayo 2016)
+## SW Arquitect & CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
-* Palako te uniste con Chema para crear Eleven Paths siendo su primer empleado. "¿Qué puede salir mal, Palako?" 
+* En Abril de 2013 te uniste con Chema en su nueva aventura: Eleven Paths. Fuiste uno de los primeros empleados. "¿Qué puede salir mal, Palako?" 
 
-* Esta fue la primera Feature que creaste (26 de Julio) y la primera de todo Redmine!!!
+
+* Esta fue la primera Feature que creaste (26 de Julio) y la primera de todo Redmine, herramienta que trajiste tú!!!
 ![Screenshot 2021-04-19 at 13 48 14](https://user-images.githubusercontent.com/481391/115231637-147cae80-a116-11eb-89f3-282f5267129e.png)
 
 * y estos serían tus primeros commits (Como te gustaba el Gerrit...)
 ![commits](https://user-images.githubusercontent.com/481391/115375390-0a1deb80-a1ce-11eb-80e3-ac13d22d7161.jpg)
 
 
-* En Octubre montaste un KickOff en Londres para dar forma a Path2
+* En Octubre montaste un KickOff en Londres para dar forma a Path2.
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
 
-* Diciembre de 2013 y ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
+* Y en Diciembre de 2013 ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
 
 * Un tiempo más tarde compartiste con nosotros el secreto para llegar en fechas a ese MWC 
 
@@ -34,9 +35,12 @@
 ![image](https://user-images.githubusercontent.com/481391/115162708-41dd4400-a0a5-11eb-94c8-8926430d36a2.png)
 
 * Celebramos el 1er aniversario de 11P y aunque las tartas de otras sedes eran mejores la que tuvisteis en Londres no estuvo nada mal!
+
 ![londoncake](https://user-images.githubusercontent.com/481391/115163148-bdd88b80-a0a7-11eb-92d7-14b7a6229b68.jpg)
 
 * Desde el principio tuviste claro que venias a cambiar Telefónica y no sera que no lo intentaste!
+
+
 ![Screenshot 2021-04-19 at 12 58 29](https://user-images.githubusercontent.com/481391/115226693-d67c8c00-a10f-11eb-892d-9d91927b5973.png)
 
 * Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
@@ -53,7 +57,10 @@
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
 
 * Nace el Equinox y con él la camiseta mas deseada del mundo!!
+
+
 * Se Lanza Mobile Connect que ahí sigue siendo clave en la autenticación de muchos servicios!!!
+<img width="910" alt="Screenshot 2021-04-22 at 11 25 09" src="https://user-images.githubusercontent.com/481391/115690643-898df500-a35d-11eb-80df-a44da783c02f.png">
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
@@ -89,9 +96,18 @@
 * Se asiste al F8 de Facebook a dar una charla sobre Aura en Facebook Messenger.  
 
 ![F8](/images/f8.png)
+
+* En Octubre, tras 7 meses de trabajo, vio la luz Movistar Home en un evento con Buenafuente en el plató de su programa de TV
+
+
  
 ### 2019
+* Diste forma a un nuevo producto: Las Living Apps!
+![Screenshot 2021-04-22 at 10 46 44](https://user-images.githubusercontent.com/481391/115685402-7b89a580-a358-11eb-89dd-84aa5d6ce1f8.png)
+
+
 * Este año llevaste el Equinox *to the next level*. Tres unidades de Telefónica juntas en la hackaton más grande que se recuerda
+
 ![equinox-hacking-telefonica-evento-premios-grupo-personas](https://user-images.githubusercontent.com/481391/115163325-ca111880-a0a8-11eb-9371-dbcae0e69a3b.jpg)
 
 * Novum se une a la familia CTO!!
@@ -99,7 +115,7 @@
 * Una reorga en TEF dio lugar al último comité de CDO
 ![comite-cdo](https://user-images.githubusercontent.com/481391/115163419-486dba80-a0a9-11eb-9292-376affefdfb7.jpg)
 
-* Su preocupación por la privacidad de los datos es legendaria y multicanal!!
+* Tu preocupación por la privacidad de los datos es legendaria y multicanal!!
 
 ![bicis](/images/bicis.png)
 
