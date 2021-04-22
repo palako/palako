@@ -39,7 +39,7 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
 * En ese mismo Security Innovation Day SmartAccess se une a Eleven Paths. Dos nuevas lineas de producto a su cargo!
-![sid2014](/images/inno2014-smartaccess.jpg)
+![sid2014](/images/inno2014-smartaccess.png)
 
 * Las navidades siempre han sido eventos muy señalados.... y no hay mejor Papa Noel que Rodol!!
 ![Navidad](/images/20141219_foto_felicitacion_Navidad.jpg)
@@ -53,8 +53,11 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
-* Palako crea los incunables del diseño de la 4P!
 
+* CTO de CDO, preparando el germen del resto de areas que llegarán
+![cto2016](images/2016-09-cto-cdo.jpeg)
+
+* Palako crea los incunables del diseño de la 4P!
 ![4pDesign](images/4p.png)
 
 * No todo iba a ser cyberseguridad, en Junio de 2016, se mete de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
@@ -72,8 +75,9 @@ Jose recogemos en este readme algunos de tus hitos más importantes en Telefóni
 * Arranca SmartWifi 2.0!
 ![swifi](/images/swifi-sketch.jpeg)
 
-* En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...)
+* En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...) dejando alguna actuación histórica 
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/481391/115289685-24ff4a00-a153-11eb-89a3-e8008d06d73f.png)
+![concert2017](/images/20171006_023651.mp4)
 
 * Y en el Kick-Off de Aura demostraste tus dotes de interpretación e improvisación (más allá del desarrollo software 😃)
 ![Palako-Actor](https://user-images.githubusercontent.com/1271642/115622556-4f3e3c80-a2f8-11eb-948b-dc58de3a0fa3.jpeg)
