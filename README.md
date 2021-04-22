@@ -2,17 +2,22 @@
 
 ## SW Arquitect & CTO en Eleven Paths (Abril 2013 - Mayo 2016)
 ### 2013
-* En Abril de 2013 te uniste con Chema en su nueva aventura: Eleven Paths. Fuiste uno de los primeros empleados. "¿Qué puede salir mal, Palako?" 
+* En Abril de 2013 te uniste desde Londres a Chema en su nueva aventura, Eleven Paths, siendo uno de sus primeros empleados. "¿Qué puede salir mal, Palako?" 
+
+![unnamed](https://user-images.githubusercontent.com/481391/115693211-028e4c00-a360-11eb-9d73-7d2e91c588f1.jpg)
 
 
 * Esta fue la primera Feature que creaste (26 de Julio) y la primera de todo Redmine, herramienta que trajiste tú!!!
+
 ![Screenshot 2021-04-19 at 13 48 14](https://user-images.githubusercontent.com/481391/115231637-147cae80-a116-11eb-89f3-282f5267129e.png)
 
 * y estos serían tus primeros commits (Como te gustaba el Gerrit...)
+
 ![commits](https://user-images.githubusercontent.com/481391/115375390-0a1deb80-a1ce-11eb-80e3-ac13d22d7161.jpg)
 
 
 * En Octubre montaste un KickOff en Londres para dar forma a Path2.
+
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
 
 * Y en Diciembre de 2013 ya empezabas a dejar huella en otros proyectos. A principios de diciembre Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
@@ -24,14 +29,18 @@
 ![Kubata](https://user-images.githubusercontent.com/1271642/115629948-8a923880-a303-11eb-95ec-bd50094c785c.png)
 
 * En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2)
+
 * Terminaste el año en la fiesta de Ciberseguridad de Telefónica tomando la penúltima
+
 ![41](https://user-images.githubusercontent.com/481391/115162868-40604b80-a0a6-11eb-82fe-1fa0d51c1f91.jpg)
 
 * Siempre les ha gustado inventar cosas!!
+
 ![image](/images/patents%20hall%20of%20fame%202013%20Telefonica.png)
 
 ### 2014
 * Dejaste boquiabiertos 20 veces en 20 minutos a unas cuantas audiencias!
+
 ![image](https://user-images.githubusercontent.com/481391/115162708-41dd4400-a0a5-11eb-94c8-8926430d36a2.png)
 
 * Celebramos el 1er aniversario de 11P y aunque las tartas de otras sedes eran mejores la que tuvisteis en Londres no estuvo nada mal!
@@ -44,52 +53,69 @@
 ![Screenshot 2021-04-19 at 12 58 29](https://user-images.githubusercontent.com/481391/115226693-d67c8c00-a10f-11eb-892d-9d91927b5973.png)
 
 * Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
+
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
 * En ese mismo Security Innovation Day SmartAccess se une a Eleven Paths. Dos nuevas lineas de producto a tu cargo!
+
 ![sid2014](/images/inno2014-smartaccess.png)
 
 * Las navidades siempre han sido eventos muy señalados.... y no hay mejor Papa Noel que Rodol!!
+
 ![Navidad](/images/20141219_foto_felicitacion_Navidad.jpg)
 
 ### 2015
 * Este año en el SID te toco presentar, pero sin duda, tuviste buena compañia!
+
 ![sid2015-5](https://user-images.githubusercontent.com/481391/115162927-96cd8a00-a0a6-11eb-9003-8ef82fdd9c10.jpg)
 
 * Nace el Equinox y con él la camiseta mas deseada del mundo!!
 
 
 * Se Lanza Mobile Connect que ahí sigue siendo clave en la autenticación de muchos servicios!!!
-<img width="910" alt="Screenshot 2021-04-22 at 11 25 09" src="https://user-images.githubusercontent.com/481391/115690643-898df500-a35d-11eb-80df-a44da783c02f.png">
+
+<img width="910" alt="Screenshot 2021-04-22 at 11 25 09" src="https://user-images.githubusercontent.com/481391/115693381-281b5580-a360-11eb-8ab7-f9dac91b99f3.png">
+
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
 
 * CTO de CDO, preparando el germen del resto de areas que llegarán
+
 ![cto2016](images/2016-09-cto-cdo.jpeg)
 
 * Palako crea los incunables del diseño de la 4P!
+
 ![4pDesign](images/4p.png)
 
 * No todo iba a ser cyberseguridad, en Junio de 2016, se mete de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
+
 * La unidad del TDAF de Telefonica I+D se une a CTO para crear 4P
+
 * Creamos la unidad de componentes transversales.
+
 * Security Innovation Days, MWCs, ... y ya solo le faltaba para completar el trío presentar en el gran evento mundial del Big Data, el Bigdata CyL, finalmente tras arduas negociaciones con la organización que involucraron algún lechazo y un número indeterminado de copas de vino de la tierra se animo a dar la keynote del evento:
+
 ![bigdtacyl1](images/20161193_BigDataCyL_Palako.png)
 ![bigdtacyl2](images/20161193_BigDataCyL_Palako_2.png)
 
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
+
 * Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
+
 ![foto_de_Grupo_web](https://user-images.githubusercontent.com/481391/115289545-fd0fe680-a152-11eb-8fde-47491e243e1f.jpg)
 
 * Arranca SmartWifi 2.0!
+
 ![swifi](/images/swifi-sketch.jpeg)
 
 * En el off-site de 11P tocaste con tu grupo de rock (y con otra panda...) dejando alguna actuación histórica 
+
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/481391/115289685-24ff4a00-a153-11eb-89a3-e8008d06d73f.png)
 
 * Y en el Kick-Off de Aura demostraste tus dotes de interpretación e improvisación (más allá del desarrollo software 😃)
+
 ![Palako-Actor](https://user-images.githubusercontent.com/1271642/115622556-4f3e3c80-a2f8-11eb-948b-dc58de3a0fa3.jpeg)
 
 ### 2018
@@ -97,12 +123,15 @@
 
 ![F8](/images/f8.png)
 
-* En Octubre, tras 7 meses de trabajo, vio la luz Movistar Home en un evento con Buenafuente en el plató de su programa de TV
+* En Octubre, tras 7 meses de locura, vio la luz Movistar Home en un evento con Buenafuente en el plató de su programa de TV
+
+![Screenshot 2021-04-22 at 11 31 11](https://user-images.githubusercontent.com/481391/115691527-70397880-a35e-11eb-8ed5-bd8a8a48eb6a.jpg)
 
 
  
 ### 2019
 * Diste forma a un nuevo producto: Las Living Apps!
+
 ![Screenshot 2021-04-22 at 10 46 44](https://user-images.githubusercontent.com/481391/115685402-7b89a580-a358-11eb-89dd-84aa5d6ce1f8.png)
 
 
@@ -113,6 +142,7 @@
 * Novum se une a la familia CTO!!
 
 * Una reorga en TEF dio lugar al último comité de CDO
+
 ![comite-cdo](https://user-images.githubusercontent.com/481391/115163419-486dba80-a0a9-11eb-9292-376affefdfb7.jpg)
 
 * Tu preocupación por la privacidad de los datos es legendaria y multicanal!!
@@ -129,13 +159,16 @@
 
 ### 2020
 * En 2020 seguro que echaste de menos no tener Slack en el plan tecnológico... Teams dia sí, día también!
+
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
 
 ### 2021
 * Se lanza una nueva versión del tech plan de CTO, seguimos sin tener node.js ;-)
+
 * Se deja como testamento para el nuevo CTO el Growth Ladder Plan!!!
 
 ![plan](/images/Growth-Ladder.png)
 
 * En abril Telefónica ha cumplido 97 años, tu has formado parte los últimos 8 ayudando a convertirla en una empresa más tecnológica, de mejor software y de mejor calidad. Esto es parte de tu legado:
+
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/481391/115377775-39355c80-a1d0-11eb-999d-a7ebf70888bb.png)
