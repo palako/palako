@@ -130,7 +130,7 @@
 ![Palako-Actor](https://user-images.githubusercontent.com/1271642/115622556-4f3e3c80-a2f8-11eb-948b-dc58de3a0fa3.jpeg)
 
 ### 2018
-* Se asiste al F8 de Facebook a dar una charla sobre Aura en Facebook Messenger.  
+* Fuiste al F8 de Facebook a dar una charla sobre Aura en Facebook Messenger.  
 
 ![F8](/images/f8.png)
 
@@ -138,6 +138,7 @@
 
 ![Screenshot 2021-04-22 at 11 31 11](https://user-images.githubusercontent.com/481391/115691527-70397880-a35e-11eb-8ed5-bd8a8a48eb6a.jpg)
 
+![image](https://user-images.githubusercontent.com/481391/115700815-610af880-a367-11eb-9f35-407acfbd6b68.png)
 
  
 ### 2019
@@ -150,11 +151,10 @@
 
 ![equinox-hacking-telefonica-evento-premios-grupo-personas](https://user-images.githubusercontent.com/481391/115163325-ca111880-a0a8-11eb-9371-dbcae0e69a3b.jpg)
 
-* Novum se une a la familia CTO!!
+* Meses después, Novum se unió a la familia CTO!!
 
-* Una reorga en TEF dio lugar al último comité de CDO
+![Screenshot 2021-04-22 at 12 27 56](https://user-images.githubusercontent.com/481391/115699934-759ac100-a366-11eb-9268-8020bde3464a.png)
 
-![comite-cdo](https://user-images.githubusercontent.com/481391/115163419-486dba80-a0a9-11eb-9292-376affefdfb7.jpg)
 
 * Tu preocupación por la privacidad de los datos es legendaria y multicanal!!
 
@@ -174,12 +174,18 @@
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
 
 ### 2021
-* Se lanza una nueva versión del tech plan de CTO, seguimos sin tener node.js ;-)
+* Lanzamos una nueva versión actualizada del tech plan de CTO, todo en orden: seguimos sin tener node.js ;-)
+
+* Tuviste tu último *all-hands* con tu unidad, donde dejaste muy claro tu misión y objetivos para este 2021
+
+![Screenshot 2021-04-22 at 12 29 25](https://user-images.githubusercontent.com/481391/115700301-d32f0d80-a366-11eb-9289-7a3209040b92.png)
+
+![Screenshot 2021-04-22 at 12 28 40](https://user-images.githubusercontent.com/481391/115700287-d0341d00-a366-11eb-807d-8e84da616ef9.png)
 
 * Se deja como testamento para el nuevo CTO el Growth Ladder Plan!!!
 
 ![plan](/images/Growth-Ladder.png)
 
-* En abril Telefónica ha cumplido 97 años, tu has formado parte los últimos 8 ayudando a convertirla en una empresa más tecnológica, de mejor software y de mejor calidad. Esto es parte de tu legado:
+* En abril Telefónica ha cumplido 97 años, tu has formado parte de ella los últimos 8 ayudando a convertirla en una empresa más tecnológica, de mejor software y de mejor calidad. Gracias por tu dedicación, tu entrega y la pasión que has puesto todo este tiempo en todos los proyectos y productos. Esto es parte de tu legado:
 
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/481391/115377775-39355c80-a1d0-11eb-999d-a7ebf70888bb.png)
