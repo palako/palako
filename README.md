@@ -42,7 +42,7 @@
 * Otro Security Innovation Day para presentar Path5 (Tacyt), la familia cada vez era más grande! 
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
-* En ese mismo Security Innovation Day SmartAccess se une a Eleven Paths. Dos nuevas lineas de producto a su cargo!
+* En ese mismo Security Innovation Day SmartAccess se une a Eleven Paths. Dos nuevas lineas de producto a tu cargo!
 ![sid2014](/images/inno2014-smartaccess.png)
 
 * Las navidades siempre han sido eventos muy señalados.... y no hay mejor Papa Noel que Rodol!!
