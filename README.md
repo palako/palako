@@ -85,8 +85,9 @@
 
 ![EquinoxFotoFinal.PNG](/images/EquinoxFotoFinal.PNG)
 
+![Screenshot 2021-04-22 at 13 22 10](https://user-images.githubusercontent.com/481391/115707514-2d33d100-a36f-11eb-9ca9-254beff0e750.jpg)
 
-* A tu lado nació el "Calendillo", los *martes* y tus visitas a Madrid siempre eran un evento importante
+* Seguro que recuerdas el "Calendillo" y los *martes*. Tus visitas a Madrid siempre eran un evento importante
 
 ![martes](/images/calendillo.jpg)
 
