@@ -211,4 +211,4 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 * En abril Telefónica ha cumplido 97 años, tu has formado parte de ella los últimos 8 ayudando a convertirla en una empresa más tecnológica, de mejor software y de mejor calidad. Gracias por tu dedicación, tu entrega y la pasión que has puesto todo este tiempo en todos los proyectos y productos. Esto es parte de tu legado:
 
-![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/481391/115377775-39355c80-a1d0-11eb-999d-a7ebf70888bb.png)
+![Proyectos](/images/banner.png)
