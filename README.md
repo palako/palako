@@ -2,7 +2,7 @@
 # Palako en Telefónica
 
 ## SW Arquitect & CTO en Eleven Paths (Abril 2013 - Mayo 2016)
-Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) estan recogidos los agradecimientos de todas las personas que han querido dejar constancia de cómo has impactado en sus vidas. You rocks!!
+Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) están recogidos los agradecimientos de todas las personas que han querido dejar constancia de cómo has impactado en sus vidas. You rocks!!
 ### 2013
 * En Abril de 2013 te uniste desde Londres a Chema en su nueva aventura, Eleven Paths, siendo uno de sus primeros empleados. "¿Qué puede salir mal, Palako?" 
 
@@ -23,11 +23,11 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/481391/115219215-94e7e300-a107-11eb-99b7-c245bbeda104.jpeg)
 
 
-* En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de Latch. (Codename: Path2). Te encargaste de contar todas las tripas del proyecto y como se integraba con sólo 5 lineas de código.
+* En Diciembre tiene lugar el primer "Security Innovation Day" donde el plato fuerte fue la presentacion de **Latch**. (Codename: Path2). Te encargaste de contar todas las tripas del proyecto y como se integraba con sólo 5 lineas de código.
 
 ![DSC_5425.JPG](/images/DSC_5425.JPG)
 
-* Poco despues ya empezabas a dejar huella en otros proyectos. Justo después del SID Chema le pidió al equipo de FirefoxOS (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
+* Poco despues ya empezabas a dejar huella en otros proyectos. Justo después del SID Chema le pidió al equipo de **FirefoxOS** (vía Carlos Domingo) un ingeniero durante 1-2 días (tirando por lo alto 🤟) porque se quería hacer una versión de Latch para FirefoxOS. Se tardó un poquito más y al final fue algo más que un ingeniero (por ambos equipos) pero 2 meses después Latch estaba funcionando en FirefoxOS, ¡justo a tiempo para el MWC!
 
 * Un tiempo más tarde compartiste con nosotros el secreto para llegar en fechas a ese MWC 
 
@@ -57,11 +57,11 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![Screenshot 2021-04-19 at 12 58 29](https://user-images.githubusercontent.com/481391/115226693-d67c8c00-a10f-11eb-892d-9d91927b5973.png)
 
-* Por segundo año tuivmos otro Security Innovation Day esta vez para presentar Tacyt (Codename: Path5), como ves la familia cada vez era más grande! 
+* Por segundo año tuivmos otro Security Innovation Day esta vez para presentar **Tacyt** (Codename: Path5), como ves la familia cada vez era más grande! 
 
 ![sid2014](https://user-images.githubusercontent.com/481391/115220400-ca410080-a108-11eb-82c4-f2173dc2a049.jpg)
 
-* En ese mismo Security Innovation Day SmartAccess se une a Eleven Paths. Dos nuevas lineas de producto a tu cargo!
+* En ese mismo Security Innovation Day **SmartAccess** se une a Eleven Paths. Dos nuevas lineas de producto a tu cargo!
 
 ![sid2014](/images/inno2014-smartaccess.png)
 
@@ -71,7 +71,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ### 2015
 
-* A principio de año Mobile Connect se unió a la familia, y ahí sigue siendo clave en la autenticación de muchos servicios!!!
+* A principio de año **Mobile Connect** se unió a la familia, y ahí sigue siendo clave en la autenticación de muchos servicios!!!
 
 <img width="910" alt="Screenshot 2021-04-22 at 11 25 09" src="https://user-images.githubusercontent.com/481391/115693381-281b5580-a360-11eb-8ab7-f9dac91b99f3.png">
 
@@ -83,7 +83,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 ![SID2015_13.jpg](/images/SID2015_13.jpg)
 
 
-* De tu mano nació el Equinox y con él la camiseta mas deseada del mundo!! Este fue uno de los primeros equipos que ganó y seguramente de los proyectos más impresionantes que hayas visto
+* De tu mano nació el **Equinox** y con él la camiseta mas deseada del mundo!! Este fue uno de los primeros equipos que ganó y seguramente de los proyectos más impresionantes que hayas visto
 
 ![EquinoxFotoFinal.PNG](/images/EquinoxFotoFinal.PNG)
 
@@ -101,17 +101,17 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![ELEVEN_PATHS-KickOff2016.jpg](images/ELEVEN_PATHS-KickOff2016.jpg)
 
-* Creaste los incunables del diseño de la 4P y para hacerlo posible todos los cracks de la unidad del TDAF de Telefonica I+D se unieron a CTO
+* Creaste los incunables del diseño de la **4P** y para hacerlo posible todos los cracks de la unidad del TDAF de Telefonica I+D se unieron a CTO
 
 ![4pDesign](images/4p.png)
 
-* Como no todo iba a ser ciberseguridad, en Junio de 2016, te metiste de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as LUCA.
+* Como no todo iba a ser ciberseguridad, en Junio de 2016, te metiste de lleno en el mundo del big data a través del equipo técnico de Analytics, rebranded as **LUCA**.
 
 ![Screenshot 2021-04-22 at 12 44 40](https://user-images.githubusercontent.com/481391/115701898-919f6200-a368-11eb-8428-f0a19ec53d64.jpg)
 
 * Creamos la unidad de componentes transversales.
 
-* Security Innovation Days, MWCs, ... y ya solo le faltaba para completar el trío presentar en el gran evento mundial del Big Data, el Bigdata CyL, finalmente tras arduas negociaciones con la organización que involucraron algún lechazo y un número indeterminado de copas de vino de la tierra se animo a dar la keynote del evento:
+* Security Innovation Days, MWCs, ... y ya solo le faltaba para completar el trío presentar en el gran evento mundial del Big Data, el **Bigdata CyL**, finalmente tras arduas negociaciones con la organización que involucraron algún lechazo y un número indeterminado de copas de vino de la tierra se animo a dar la keynote del evento:
 
 ![bigdtacyl1](images/20161193_BigDataCyL_Palako.png)
 ![bigdtacyl2](images/20161193_BigDataCyL_Palako_2.png)
@@ -132,11 +132,11 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 ### 2017
 * Lanzamos el primer plan tecnológico de la unidad, sin node.js unfortunately ;-)
 
-* Lanzamos Aura y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
+* Lanzamos **Aura** y 4P en 6 paises en 6 meses rompiendo todo los records de Telefonica!!
 
 ![foto_de_Grupo_web](https://user-images.githubusercontent.com/481391/115289545-fd0fe680-a152-11eb-8fde-47491e243e1f.jpg)
 
-* Arranca SmartWifi 2.0!
+* Arranca **SmartWifi 2.0**!
 
 ![swifi](/images/swifi-sketch.jpeg)
 
@@ -153,7 +153,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![F8](/images/f8.png)
 
-* En Octubre, tras 7 meses de locura, vio la luz Movistar Home en un evento con Buenafuente en el plató de su programa de TV
+* En Octubre, tras 7 meses de locura, vio la luz **Movistar Home** en un evento con Buenafuente en el plató de su programa de TV
 
 ![IMG-20181018-WA0005](https://user-images.githubusercontent.com/481391/115705696-22783c80-a36d-11eb-822c-6094134ea624.jpg)
 
@@ -161,7 +161,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 
 ### 2019
-* Diste forma a un nuevo producto: Las Living Apps!
+* Diste forma a un nuevo producto: **Las Living Apps**!
 
 ![Screenshot 2021-04-22 at 10 46 44](https://user-images.githubusercontent.com/481391/115685402-7b89a580-a358-11eb-89dd-84aa5d6ce1f8.png)
 
@@ -191,7 +191,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![IMG-20200518-WA0009](https://user-images.githubusercontent.com/481391/115162835-01ca9100-a0a6-11eb-8504-2841244b39d0.jpeg)
 
-* A pesar de estar en medio de una pandemia todos los proyectos siguieron creciendo, entre otros, lanzamos muchas Living Apps: Movistar Campus, Shop TV, Fortnite...
+* A pesar de estar en medio de una pandemia todos los proyectos siguieron creciendo, entre otros, lanzamos muchas Living Apps: **Movistar Campus**, **Shop TV**, **Fortnite**...
 
 ![image](https://user-images.githubusercontent.com/481391/115701406-09b95800-a368-11eb-8e36-dfb9b2f99328.png)
 
