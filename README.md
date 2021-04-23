@@ -2,7 +2,7 @@
 # Palako en Telefónica
 
 ## SW Arquitect & CTO en Eleven Paths (Abril 2013 - Mayo 2016)
-Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) estan recogidos los agradecimientos de todas las personas que han querido dejar constancia de cómo has impactado en nuestras vidas. You rocks!!
+Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) estan recogidos los agradecimientos de todas las personas que han querido dejar constancia de cómo has impactado en sus vidas. You rocks!!
 ### 2013
 * En Abril de 2013 te uniste desde Londres a Chema en su nueva aventura, Eleven Paths, siendo uno de sus primeros empleados. "¿Qué puede salir mal, Palako?" 
 
