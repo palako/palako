@@ -93,7 +93,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![martes](/images/calendillo.jpg)
 
-* Ya el 2015 haciendo [retrospectiva](https://www.youtube.com/watch?v=8CEefqaI-9w) se veía que eramos una locomotora imparable!!
+* Ya el 2015 haciendo [retrospectiva](https://www.youtube.com/watch?v=upcvJfrfiHA) se veía que eramos una locomotora imparable!!
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
