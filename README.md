@@ -212,3 +212,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 * En abril Telefónica ha cumplido 97 años, tu has formado parte de ella los últimos 8 ayudando a convertirla en una empresa más tecnológica, de mejor software y de mejor calidad. Gracias por tu dedicación, tu entrega y la pasión que has puesto todo este tiempo en todos los proyectos y productos. Esto es parte de tu legado:
 
 ![Proyectos](/images/banner.png)
+
+* Jose Maria Palazón (Palako) sirvió con honores y deber en Telefónica desde Abril del 2013 a Abril del 2021.
+
+![astronauta](/images/astronauta.png)
