@@ -83,7 +83,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 ![SID2015_13.jpg](/images/SID2015_13.jpg)
 
 
-* De tu mano nació el **Equinox** y con él la camiseta mas deseada del mundo!! Este fue uno de los primeros equipos que ganó y seguramente de los proyectos más impresionantes que hayas visto
+* De tu mano nació el [**Equinox**](https://www.youtube.com/watch?v=8CEefqaI-9w) y con él la camiseta mas deseada del mundo!! Este fue uno de los primeros equipos que ganó y seguramente de los proyectos más impresionantes que hayas visto
 
 ![EquinoxFotoFinal.PNG](/images/EquinoxFotoFinal.PNG)
 
@@ -93,6 +93,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![martes](/images/calendillo.jpg)
 
+* Ya el 2015 haciendo [retrospectiva](https://www.youtube.com/watch?v=8CEefqaI-9w) se veía que eramos una locomotora imparable!!
 
 ## CTO en CDO & CDCO (Junio 2016 - Abril 2021)
 ### 2016
@@ -214,5 +215,4 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 ![Proyectos](/images/banner.png)
 
 * Jose Maria Palazón (Palako) sirvió con honores y deber en Telefónica desde Abril del 2013 a Abril del 2021.
-
 ![astronauta](/images/astronauta.png)
