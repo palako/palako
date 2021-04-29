@@ -87,7 +87,7 @@ Hola buddy, en esta [pull request](https://github.com/javi-jamaa/palako/pull/8) 
 
 ![EquinoxFotoFinal.PNG](/images/EquinoxFotoFinal.PNG)
 
-![Screenshot 2021-04-22 at 13 22 10](https://user-images.githubusercontent.com/481391/115707514-2d33d100-a36f-11eb-9ca9-254beff0e750.jpg)
+![Screenshot 2021-04-27 at 13 41 31](https://user-images.githubusercontent.com/481391/116527531-0f202080-a8db-11eb-9a20-47ebe5837ba6.png)
 
 * Seguro que recuerdas el "Calendillo" y los *martes*. Tus visitas a Madrid siempre eran un evento importante
 
